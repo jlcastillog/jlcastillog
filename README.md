@@ -1,4 +1,4 @@
-# Hola, soy jose Luis Castillo Galvez
+# Hola, soy Jose Luis Castillo Galvez
 ## Acerca de mí
 # 💫 About Me:
 Soy un apasionado desarrollador de software con experiencia en .Net. Me encanta resolver problemas y crear soluciones elegantes y eficientes.
